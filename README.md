@@ -14,6 +14,8 @@ Install the required libraries using the following command:
 
 ```bash
 pip install pygame pillow
+
+code example =
 Project Structure
 main.py: The main file of the project containing functions to select a random image and display it in a pygame window.
 Functionality
